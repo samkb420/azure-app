@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: sammy
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65E742EA4D714EEA936DFC4B34EF614F }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25CF2CC64D754476B862B60CE7B72CF4 }}
 
